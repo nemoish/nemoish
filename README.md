@@ -1,4 +1,4 @@
-- 👋 Hola, soy Nemo
+- 👋 Hola, soy Nemo.
 - 🎓 De profesión soy economista, pero me agrada analizar todo comportamiento social con datos.
 - 👨🏻‍🎓 Ahorita estoy aprendiendo SQL... luego quiero aprender a implementar un webcrawler para automatizar el análisis de bases de datos con Python
 - 🐒 Homoeconomikus.com - Es un proyecto que inicié con la finalidad de difundir conocimiento y herramientas prácticos para lidiar con el capitalismo como individuo. Principalmente aplica considera la legislación vigente en México(🇲🇽), PERO la parte fundamental incluye cuestiones teorico-prácticas de las ciencias económico-administrativas y sociales, las cuales pueden aplicarse en cualquier nación.
