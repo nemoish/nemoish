@@ -6,6 +6,7 @@
 
 - ❓ Otras cosas random sobre mi:
 -🤔 ¿Qué te gusta hacer❓ Me gusta leer ciencia ficción y fantasía histórica, salir en bicicleta y los videojuegos.
+- 📫 nemo@homoeconomikus.com
 -🛸 ¿entonces crees en los aliens❓ son una probabilidad... que considero muy alta, por cierto.
 -📖 ¿Cuál es tu libro favorito❓ Muchos, pero está entre alguno de la trilogía de Maze Runner o la serie de Harry Potter.
 -🕹️ ¿y tu video juego favorito❓ Creo que estaría entre Pokemon Platino o Hogwarts Legacy o EVE.
