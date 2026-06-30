@@ -1,7 +1,6 @@
-- 👋 Hola, soy Nemo.
-- 🎓 De profesión soy economista, pero me agrada analizar todo comportamiento social con datos.
+- 👋 Hola, soy Jaime.
+- 🎓 De profesión soy economista, pero me agrada analizar todo tipo de datos.
 - 👨🏻‍🎓 Ahorita estoy aprendiendo SQL... luego quiero aprender a implementar un webcrawler para automatizar el análisis de bases de datos con Python
-- 🐒 Homoeconomikus.com - Es un proyecto que inicié con la finalidad de difundir conocimiento y herramientas prácticos para lidiar con el capitalismo como individuo. Principalmente aplica, y considera, la legislación vigente en México, PERO la parte fundamental incluye cuestiones teorico-prácticas de las ciencias económico-administrativas y sociales, las cuales pueden aplicarse en cualquier nación.
 - 📫 jcasolv98@outlook.com
 
 - ❓ Otras cosas random sobre mi:
